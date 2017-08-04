@@ -1,18 +1,16 @@
 
 ## Social media feed from Jucier.io
 
+```sh
 $ npm install
-```
 
-```sh
 $ react-native link
-```
 
-```sh
+THEN
+
 $ react-native run-ios
-```
+
 OR
 
-```sh
 $ react-native run-android
 ```
